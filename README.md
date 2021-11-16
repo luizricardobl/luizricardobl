@@ -1,6 +1,6 @@
 ### Hi there, I'm Luiz 👋
 
-## I'm a Front-End Developer.
+## I'm an aspiring Front-End Developer.
 
 <br />
 
